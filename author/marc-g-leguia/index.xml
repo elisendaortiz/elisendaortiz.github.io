@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc G Leguia | Elisenda Ortiz</title>
+    <link>https://elisendaortiz.github.io/author/marc-g-leguia/</link>
+      <atom:link href="https://elisendaortiz.github.io/author/marc-g-leguia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc G Leguia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://elisendaortiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Marc G Leguia</title>
+      <link>https://elisendaortiz.github.io/author/marc-g-leguia/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics of new strain emergence on a temporal network</title>
+      <link>https://elisendaortiz.github.io/publication/2018_multipathogen/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://elisendaortiz.github.io/publication/2018_multipathogen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
