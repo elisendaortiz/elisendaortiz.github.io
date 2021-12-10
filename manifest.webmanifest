@@ -2,14 +2,14 @@
   "name": "Elisenda Ortiz",
   "short_name": "Elisenda Ortiz",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#003b5eff",
+  "background_color": "#003b5eff",
   "icons": [{
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu090458dde5d3c40f75b97449ca444d8b_166701_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu090458dde5d3c40f75b97449ca444d8b_166701_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
